@@ -4,9 +4,8 @@
 
 - 🌐 博客：[www.xukangr.com](https://www.xukangr.com)
 - 📍 所在地：江西
-- 👤 GitHub 成员：自 2020 年至今
 
-我是一名以构建为主的独立开发者，过去 90 天内在 12 个公开仓库保持活跃，主导贡献模式为代码提交（Commit 占比 99.3%），贡献多样性达 100%。主要使用 TypeScript、Python、Go、JavaScript 和 Vue 进行开发，近期重点围绕 AI、Cursor、Claude、GPT、DNS 等领域构建实用工具。
+我是一名以构建为主的独立开发者，主要使用 TypeScript、Python、Go、JavaScript 和 Vue 进行开发，近期重点围绕 AI、Cursor、Claude、GPT、DNS 等领域构建实用工具。
 
 ## 🛠️ 技术栈
 
