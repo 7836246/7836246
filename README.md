@@ -4,7 +4,7 @@
 
 - 🌐 博客：[www.xukangr.com](https://www.xukangr.com)
 
-我是一名独立开发者，主要使用 TypeScript、Python、Go、JavaScript 和 Vue 进行开发。
+我是一名全栈工程师，主要使用 TypeScript、Python、Go、JavaScript 和 Vue 进行开发。
 
 ## 🛠️ 技术栈
 
