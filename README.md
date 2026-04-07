@@ -3,7 +3,6 @@
 **独立开发者 | 专注 AI 工具与自动化开发**
 
 - 🌐 博客：[www.xukangr.com](https://www.xukangr.com)
-- 📍 所在地：江西
 
 我是一名独立开发者，主要使用 TypeScript、Python、Go、JavaScript 和 Vue 进行开发。
 
