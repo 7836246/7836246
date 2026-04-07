@@ -25,10 +25,3 @@
 ![Claude](https://img.shields.io/badge/-Claude-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white)
 ![GPT](https://img.shields.io/badge/-GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-
-## 📊 GitHub 数据
-
-<div align="center">
-  <img src="https://readme.u14.app/api/github/stats?userId=fplBmuTvBnoCjzEoa7FJ8X8c3KAj6fEK" alt="GitHub Stats" width="48%" />
-  <img src="https://readme.u14.app/api/github/top-langs?userId=fplBmuTvBnoCjzEoa7FJ8X8c3KAj6fEK" alt="Top Languages" width="48%" />
-</div>
